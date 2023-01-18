@@ -1,0 +1,1608 @@
+
+<!DOCTYPE html>
+<html lang="">
+	<head class="">
+		<meta name="title"content="Usha Lenka" />
+			
+		<meta name="description"content="Professor" />
+			
+		<meta name="keywords" />
+			
+		<meta name="twitter:title"content="Usha Lenka" />
+			
+		<meta name="twitter:description"content="Professor" />
+			
+		<meta property="og:title"content="Usha Lenka" />
+			
+		<meta property="og:description"content="Professor" />
+			
+		<meta name="viewport"content="width=device-width, initial-scale=1.0" />
+			
+		<link rel="stylesheet" href="https://cmsredesign.channeli.in/library/css/index.css?id='y5CPwsFLdX'">
+		<title>Usha Lenka</title>
+	</head>
+	<body class="light">
+			<div class="ui header department">
+    <div class="ui top-nav">
+      <div class="accessibility">
+       
+      </div>
+      <div class="page-options-serach">
+        <div class="page-options">
+          
+                <a href="https://iitr.ac.in/Institute/List%20Of%20Holidays.html">CALENDAR</a>
+                <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQVqxGcRCXqSohTHleZfz0WEmFtYYStM4SY4xsN8CuEbBdCKLZEit8rk9HEy646IrsWFvqvEabsi6Ni/pub?gid=0&single=true&output=pdf">TIME TABLE</a>
+                <a href="https://iitr.ac.in/support/td/">DIRECTORY</a>
+        </div>
+        <div class="page-search">
+          <img class="ui icon" data-icon="search" />
+        </div>
+      </div>
+    </div>
+ 
+    <div class="ui main-head">
+      <div id="hamBurger" class="hamburger-container">
+        <img class="ui icon" data-icon="hamburger" />
+      </div>
+      <div class="heading-section">
+        <div class="logo-header">
+          <a href="https://iitr.ac.in/" class="link-content">
+            <img
+              src="https://cmsredesign.channeli.in/library/assets/images/Indian_Institute_of_Technology_Roorkee_logo 1.png"
+              alt="IIT Roorkee logo"
+        
+        
+																
+         
+																																																			
+																																																																	
+      
+               
+               
+            </ul>
+																																																																		
+      
+      
+																																																																			
+																																																																		
+																																																																						
+        </div>
+																																																																						Usha Lenka
+																																																																						
+																																																																					
+																																																																				</div>
+																																																																				<div class="ui section-heading">
+																																																																					Usha Lenka
+																																																																				</div>
+																																																																				<div class="ui one-liner-captions">
+																																																																					Head of department
+																																																																				</div>
+																																																																				
+																																																																			</div>
+																																																																			
+																																																																		</div>
+																																																																			<div class="ui faculty-profile">
+																																																																				<div class="ui twenty-eighty-container">
+																																																																					<div style="justify-content:center;" class="first" >
+																																																																						<div class="ui image">
+																																																																							<img src="https://channeli.in/media/kernel/display_pictures/80ab33ff-af91-4e01-8b60-086afd303546.jpg" alt="There is an image here" />
+																																																																							
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div style="justify-content:center;" class="second" >
+																																																																						<a href="https://channeli.in/" class="ui button" >
+																																																																							Download Resume
+																																																																						</a>
+																																																																						
+																																																																						
+																																																																							
+																																																																							
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																			</div>
+																																																																			
+																																																																		</div>
+																																																																		<div class="ui twenty-eighty-container faculty-vertical-list">
+																																																																		<div style="justify-content:center;" class="first" >
+																																																																		
+            <div class="vertical-list">
+                <div class="vertical-list-head ui sub-heading" id="1" onclick="head_click(this.id)">Biosketch</div>
+                <div class="vertical-list-nest">
+                <div class="ui one-liner-captions" onclick="content_click(this.id)">Educational
+                        Details</div>
+                <div class="ui one-liner-captions" onclick="content_click(this.id)">Professional
+                        Background</div>
+                <div class="ui one-liner-captions" onclick="content_click(this.id)">Administrative
+                        Positions
+                </div>
+              </div>
+              <hr />
+              <div class="vertical-list-head ui sub-heading" id="2" onclick="head_click(this.id)">Research</div>
+              <div class="vertical-list-nest">
+                  <div class="ui one-liner-captions" onclick="content_click(this.id)">Projects</div>
+                  <div class="ui one-liner-captions" onclick="content_click(this.id)">Papers</div>
+                  <div class="ui one-liner-captions" onclick="content_click(this.id)">Books</div>
+                  <div class="ui one-liner-captions" onclick="content_click(this.id)">Collaborations</div>
+              </div>
+              <hr />
+              <div class="vertical-list-head ui sub-heading" id="3" onclick="head_click(this.id)">Honours and Awards
+              </div>
+              <div class="vertical-list-nest">
+                  <div class="ui one-liner-captions" onclick="content_click(this.id)">Honors</div>
+                  <div class="ui one-liner-captions" onclick="content_click(this.id)">Memberships</div>
+              </div>
+              <hr />
+              <div class="vertical-list-head ui sub-heading" id="4" onclick="head_click(this.id)">Teaching Engagements
+              </div>
+              <div class="vertical-list-nest">
+                    <div class="ui one-liner-captions" onclick="content_click(this.id)">Teaching
+                        Engagements</div>
+              </div>
+              <hr />
+              <div class="vertical-list-head ui sub-heading" id="5" onclick="head_click(this.id)">Students</div>
+              <div class="vertical-list-nest">
+                    <div class="ui one-liner-captions" onclick="content_click(this.id)">Supervisions</div>
+                    <div class="ui one-liner-captions" onclick="content_click(this.id)">Associate
+                        Scholars</div>
+              </div>
+              <hr />
+              <div class="vertical-list-head ui sub-heading" id="6" onclick="head_click(this.id)">Miscellaneous</div>
+              <div class="vertical-list-nest">
+                    <div class="ui one-liner-captions" onclick="content_click(this.id)">Events</div>
+                    <div class="ui one-liner-captions" onclick="content_click(this.id)">Visits</div>
+                    <div class="ui one-liner-captions" onclick="content_click(this.id)">Miscellaneous</div>
+              </div>
+          </div>
+    
+																																																																			</div>
+																																																																			<div style="justify-content:center;" class="second" >
+																																																																				<div class="ui section-heading">
+																																																																					BioSketch
+																																																																				</div>
+																																																																				<div class="ui title-bar">
+																																																																					<div class="ui sub-heading"id="educationaldetails">
+																																																																						Educational Details
+																																																																					</div>
+																																																																					
+																																																																				</div>
+																																																																				<div class="ui publication-list">
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Indian Institute of Technology Kharagpur
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								2008
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							Ph.D., Management
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					
+																																																																				</div>
+																																																																				<div class="ui title-bar">
+																																																																					<div class="ui sub-heading"id="professionalbackground">
+																																																																						Professional Background
+																																																																					</div>
+																																																																					
+																																																																				</div>
+																																																																				<div class="ui publication-list">
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Professor
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								10 Aug 2020 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							Department of Management Studies, Indian Institute of Technology Roorkee
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Associate Professor
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								23 Nov 2015 - 09 Aug 2020
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							Department of Management Studies, Indian Institute of Technology Roorkee
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Asistant Professor
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								22 Dec 2010 - 22 Nov 2015
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							Management Studies, IIT Roorkee
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Assistant Professor
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								01 Jan 2008 - 17 Dec 2010
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							Birla Institute of Technology &amp; Sciences, Pilani, Raj
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Research Assistant
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								01 Jan 2005 - 31 Oct 2007
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							Vinod Gupta School of Management, IIT Kharagpur
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					
+																																																																				</div>
+																																																																				<div class="ui title-bar">
+																																																																					<div class="ui sub-heading"id="administrativepositions">
+																																																																						Administrative Positions
+																																																																					</div>
+																																																																					
+																																																																				</div>
+																																																																				<div class="ui publication-list">
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Head of the Department
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								02 Oct 2020 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							MANAGEMENT STUDIES, INDIAN INSTITUTE OF TECHNOLOGY ROORKEE
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Member
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								01 Jan 2019 - 01 Jan 2020
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							Internal Complaints Committtee
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								CHIEF WARDEN
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								01 Jan 2018 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							SAROJINI BHAWAN
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Chief Warden
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								01 Jan 2019 - 01 Jan 2020
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							Vigyan Kunj E Block (Girl's Hostel)
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Member, Disciplinary Action Committee
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								01 Jan 2018 - 01 Jan 2020
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							Dean of Students Welfare
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Member
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								01 Jan 2018 - 01 Jan 2020
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							Sponsored Research and Industrial Consultancy
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Member Anti Ragging Committee
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								01 Jan 2012 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							DOSW, IIT Roorkee
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Member
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								01 Jan 2019 - 01 Jan 2020
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							Institute Academic Ethics Committee
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								WARDEN
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								01 Jan 2015 - 01 Jan 2018
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							SAROJINI BHAWAN
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Faculty Advisor Cultural Council-Programme Management Section
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								01 Jan 2014 - 01 Jan 2018
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							DOSW, IIT Roorkee
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					
+																																																																				</div>
+																																																																				<div class="ui section-heading">
+																																																																					Research
+																																																																				</div>
+																																																																				<div class="ui title-bar">
+																																																																					<div class="ui sub-heading"id="projects">
+																																																																						Projects
+																																																																					</div>
+																																																																					
+																																																																				</div>
+																																																																				<div class="ui table-container">
+																																																																					<form method="post" action="">
+																																																																						<table class="ui table tadminViewReport">
+																																																																							<tr class="ui table-row">
+																																																																								<td class="ui table-head" onClick="sortTable(this)">
+																																																																									TOPIC
+																																																																								</td>
+																																																																								<td class="ui table-head" onClick="sortTable(this)">
+																																																																									START DATE
+																																																																								</td>
+																																																																								<td class="ui table-head" onClick="sortTable(this)">
+																																																																									FIELD
+																																																																								</td>
+																																																																								<td class="ui table-head" onClick="sortTable(this)">
+																																																																									DESCRIPTION
+																																																																								</td>
+																																																																								<td class="ui table-head" onClick="sortTable(this)">
+																																																																									FINANCIAL OUTLAY
+																																																																								</td>
+																																																																								<td class="ui table-head" onClick="sortTable(this)">
+																																																																									FUNDING AGENCY
+																																																																								</td>
+																																																																								<td class="ui table-head" onClick="sortTable(this)">
+																																																																									OTHER OFFICERS
+																																																																								</td>
+																																																																								
+																																																																							</tr>
+																																																																							<tr class="ui table-row">
+																																																																								<td class="ui table-value">
+																																																																									Investments in knowledge &amp; innovation, and its impact on knowledge cluster and network in Indian Cit
+																																																																								</td>
+																																																																								<td class="ui table-value">
+																																																																									01 Jan 2019
+																																																																								</td>
+																																																																								<td class="ui table-value">
+																																																																									Investments in knowledge &amp; innovation, and its impact on knowledge cluster and network in Indian Cit
+																																																																								</td>
+																																																																								<td class="ui table-value">
+																																																																									
+																																																																								</td>
+																																																																								<td class="ui table-value">
+																																																																									21.3 Lakhs
+																																																																								</td>
+																																																																								<td class="ui table-value">
+																																																																									Department of Science and Technology
+																																																																								</td>
+																																																																								<td class="ui table-value">
+																																																																									Prof Arindam Biswas &amp; Prof Subir Sen
+																																																																								</td>
+																																																																								
+																																																																							</tr>
+																																																																							<tr class="ui table-row">
+																																																																								<td class="ui table-value">
+																																																																									Factors influencing consumer socialization of children and its consequences
+																																																																								</td>
+																																																																								<td class="ui table-value">
+																																																																									01 Jan 2016
+																																																																								</td>
+																																																																								<td class="ui table-value">
+																																																																									Factors influencing consumer socialization of children and its consequences
+																																																																								</td>
+																																																																								<td class="ui table-value">
+																																																																									
+																																																																								</td>
+																																																																								<td class="ui table-value">
+																																																																									8 Lakhs
+																																																																								</td>
+																																																																								<td class="ui table-value">
+																																																																									ICSSR
+																																																																								</td>
+																																																																								<td class="ui table-value">
+																																																																									Dr M K Barua
+																																																																								</td>
+																																																																								
+																																																																							</tr>
+																																																																							<tr class="ui table-row">
+																																																																								<td class="ui table-value">
+																																																																									Exploring dynamics of potential women entrepreneurs
+																																																																								</td>
+																																																																								<td class="ui table-value">
+																																																																									01 Jan 2012
+																																																																								</td>
+																																																																								<td class="ui table-value">
+																																																																									Exploring dynamics of potential women entrepreneurs
+																																																																								</td>
+																																																																								<td class="ui table-value">
+																																																																									
+																																																																								</td>
+																																																																								<td class="ui table-value">
+																																																																									2.3 Lakhs
+																																																																								</td>
+																																																																								<td class="ui table-value">
+																																																																									SRIC IIT Roorkee
+																																																																								</td>
+																																																																								<td class="ui table-value">
+																																																																									
+																																																																								</td>
+																																																																								
+																																																																							</tr>
+																																																																							
+																																																																						</table>
+																																																																						
+
+
+
+
+																																																																				</div>
+																																																																				<div class="ui section-heading">
+																																																																					Honors And Awards
+																																																																				</div>
+																																																																				<div class="ui title-bar">
+																																																																					<div class="ui sub-heading"id="honors">
+																																																																						Honors
+																																																																					</div>
+																																																																					
+																																																																				</div>
+																																																																				<div class="ui publication-list">
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Shastri Indo Canadian Institute
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								2020
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							Shastri Indo Canadian Fellowship 2020-21
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Shastri Indo Canadian Institute
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								2015
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							SHASTRI INDO CANADIAN FELLOWSHIP 2015-16
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								National Academy of Psychology
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								2011
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							Prof. Durganand Sinha Gold Medal for Best PhD Dissertation
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Management Doctoral Colloquium at Vinod Gupta School of Management, IIT Kharagpur
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								2017
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							Best Research Paper Awards at
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								ICHEM and ISAET International Conference held in Singapore
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								2015
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							Best Paper Award
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					
+																																																																				</div>
+																																																																				<div class="ui title-bar">
+																																																																					<div class="ui sub-heading"id="memberships">
+																																																																						MemberShips
+																																																																					</div>
+																																																																					
+																																																																				</div>
+																																																																				<div class="ui publication-list">
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Indian Society of Training and Development
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								24 Jul 2020 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							Life Member
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								British Academy of Management
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								22 Jul 2022 - 31 Dec 2023
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							Member
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								National Academy of Psychology
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								22 Dec 2011 - 31 Dec 2012
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							Member
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					
+																																																																				</div>
+																																																																				<div class="ui section-heading">
+																																																																					Teaching Engagements
+																																																																				</div>
+																																																																				<div class="ui title-bar">
+																																																																					<div class="ui sub-heading"id="teachingengagements">
+																																																																						Teaching Engagements
+																																																																					</div>
+																																																																					
+																																																																				</div>
+																																																																				<div class="ui publication-list">
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Human Resource Analytics ( BM 641 )
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								Autumn
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Management of Change ( BM N 637 )
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								Autumn
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Strategic Human Resource Management ( BMN 640 )
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								Spring
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Management Concepts and Practices ( BM 201 )
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								Spring
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Organizational Communication ( BMN 504 )
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								Autumn
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Managerial Communication ( BMN 512 )
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								Autumn
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Human Resource management ( BMN 520 )
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								Autumn
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Knowledge Management ( IBM 01 )
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								Spring
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Training and Talent Development ( BM 635 )
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								Autumn
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					
+																																																																				</div>
+																																																																				<div class="ui section-heading">
+																																																																					Students
+																																																																				</div>
+																																																																				<div class="ui title-bar">
+																																																																					<div class="ui sub-heading"id="supervisions">
+																																																																						SuperVisions
+																																																																					</div>
+																																																																					
+																																																																				</div>
+																																																																				<div class="ui publication-list">
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Impact of socialization agents on pester power and materialism among children
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								24 Jul 2020 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							Other Supervisors: Usha Lenka, Scholar: Vandana
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								A study of innovation process in Indian pharmaceutical companies
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								24 Jul 2020 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							Other Supervisors: Usha lenka, Scholar: Minisha Gupta
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Enablers of learning organization: A case of management institutes in India
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								24 Jul 2020 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							Other Supervisors: Usha Lenka, Scholar: Saniya Chawla
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Talent Development and Engagement of Survivors: A Study of IT/ITES Sector in India
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								24 Jul 2020 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							Other Supervisors: Usha Lenka, Scholar: Binita Tiwari
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Enablers of Retention of Gen Y Talent: A Study of IT Industry in India
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								24 Jul 2020 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							Other Supervisors: , Scholar: Mohammad Faraz Naim
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Factors Affecting Women Employees Engagement and Performance in Indian IT Industry
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								24 Jul 2020 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							Other Supervisors: , Scholar: Debashish Sahoo
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Promotion of Women Entrepreneurship through Competency Development
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								24 Jul 2020 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							Other Supervisors: , Scholar: Sucheta Agarwal
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Impact of HR practices on workplace deviance
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								24 Jul 2020 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							Other Supervisors: , Scholar: Pooja Malik
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					
+																																																																				</div>
+																																																																				<div class="ui section-heading"id="miscellaneous">
+																																																																					Miscellaneous
+																																																																				</div>
+																																																																				<div class="ui title-bar">
+																																																																					<div class="ui sub-heading"id="events">
+																																																																						Events
+																																																																					</div>
+																																																																					
+																																																																				</div>
+																																																																				<div class="ui publication-list">
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Convener, International Conference on Research and Business Sustainability ICRBS17
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								01 Jan 2019 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							IIT Roorkee
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Organizing Secretary, International Conference on Research in Sustainable Business ICRBS15
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								24 Jul 2020 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							IIT Roorkee
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Convener, National Conference on Paradigm for Sustainable Business: People, Planet, and Profit
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								24 Jul 2020 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							IIT Roorkee
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Short term program on Structural Equation Modeling
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								01 Jan 2013 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							CEC
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Fundamentals and Applications of Structural Equation Modelling
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								01 Jan 2013 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							CEC
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Thesis/Technical Writing
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								01 Jan 2013 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							QIP
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Research Methodology
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								24 Jul 2020 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Research Methodology : Tools and Techniques
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								24 Jul 2020 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Management of change (Power Finance Corporation)
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								24 Jul 2020 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Invited Lecture on Achievement Motivation
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								01 Jan 2019 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Management of change, (Power Finance Corporation)
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								24 Jul 2020 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Management of change, (Power Finance Corporation)
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								24 Jul 2020 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Fundamentals and Applications of Structural Equation Modelling’
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								24 Jul 2020 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Relevance of Knowledge Management in Organizations
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								01 Jan 2015 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Fundamentals and Applications of Structural Equation Modelling
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								24 Jul 2020 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Case Based Learning in Business &amp; Management
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								24 Jul 2020 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Lecture on Structural Equation Modeling and Data Analysis
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								01 Jan 2014 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Thesis/Technical Writing
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								24 Jul 2020 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Case Based Learning in Business &amp; Management,
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								24 Jul 2020 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Strategic Human Resource Management
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								24 Jul 2020 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Cases on Strategic Human Resource Management
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								24 Jul 2020 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Case Based Learning in Business &amp; Management
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								24 Jul 2020 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Lecture on Motivation for security personnel
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								24 Jul 2020 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Lecture on team building for security personnel
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								24 Jul 2020 - Present
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					
+																																																																				</div>
+																																																																				<div class="ui title-bar">
+																																																																					<div class="ui sub-heading"id="visits">
+																																																																						Visits
+																																																																					</div>
+																																																																					
+																																																																				</div>
+																																																																				<div class="ui publication-list">
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								McMaster University Canada
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								2021-02-26
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							Academic Collaboration
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Indian Institute of Management Kozhikode
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								2020-07-24
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							Visiting Faculty
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Asper School of Business, University of Manitoba, Canada
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								2020-07-24
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							Visiting Scholar
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Indian Institute of Management Raipur
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								2020-07-24
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							Visiting Faculty
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					<div class="publicationListItem">
+																																																																						<div class="ui title-bar">
+																																																																							<div class="ui intro-text">
+																																																																								Indian Institute of Management Shillong
+																																																																							</div>
+																																																																							<div class="ui intro-text">
+																																																																								2014-01-01
+																																																																							</div>
+																																																																							
+																																																																						</div>
+																																																																						<div class="ui intro-text">
+																																																																							Visiting Faculty
+																																																																						</div>
+																																																																						
+																																																																					</div>
+																																																																					
+																																																																				</div>
+																																																																				<div class="ui title-bar">
+																																																																					<div class="ui sub-heading"id="otherwork">
+																																																																						Other work
+																																																																					</div>
+																																																																					
+																																																																				</div>
+																																																																				<div class="content">
+																																																																					- •	EDITING EXPERIENCE AND CERTIFICATION IN INTERNATIONAL JOURNAL 
+
+1.	Guest Editor, Special issue on Sustainable Business in Digital Age, World Journal of Entrepreneurship, Management, and Sustainable Development. EMERALD (2018)
+
+
+•	REVIEWER RECOGNITION CERTIFICATE:
+1.	International Journal of Hospitality Management (ELSEVIER)
+2.	Journal of Workplace Learning (EMERALD)
+3.	The Learning Organization (EMERALD)
+4.	European Journal of Innovation Management (EMERALD)
+
+
+ •	REVIEWER OF INTERNATIONAL JOURNALS
+1.	The Learning Organization (EMERALD)
+
+2.	Current Directions in Psychological Science (ELSEVIER)
+
+3.	Psychological Report (Ammons Scientific)
+
+4.	Psychological Studies, (SPRINGER)
+
+5.	The International Journal of Human Resource Management (TAYLOR AND FRANCIS)
+
+6.	International Journal of Decision Science, Risk, and Management (INDERSCIENCE) 
+
+7.	The International Journal of Management in Education (INDERSCIENCE)
+
+8.	The Journal of Asia Business Studies (EMERALD)
+
+9.	International Journal of Productivity and Performance Management (EMERALD)
+
+10.	World Journal of Entrepreneurship, Management, and Sustainable Development. (EMERALD)
+
+11.	Journal of Management Development. (EMERALD)
+
+12.	European Journal of Innovation Management. (EMERALD)
+
+13.	Journal of Workplace Learning (EMERALD)
+
+14.	Gender in Management (EMERALD)
+15. International Journal of Manpower
+
+16.	Academy of Management Conference
+
+
+																																																																				</div>
+																																																																				<div class="ui title-bar">
+																																																																					<div class="ui sub-heading"id="refereedjournalpapers">
+																																																																						Refereed Journal Papers
+																																																																					</div>
+																																																																					
+																																																																				</div>
+																																																																				<div class="content">
+																																																																					<div style="margin-left:-24.0pt;">
+<p style="margin-left:24.0pt;"><strong>Author ID: 26531322300</strong></p>
+
+<p style="margin-left:24.0pt;"><strong>Web of Science Researcher ID : AAJ-2574-2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></p>
+
+<p style="margin-left:24.0pt;"><strong>http://orcid.org/0000-0003-4728-0559</strong></p>
+</div>
+
+<p><strong><em>RESEARCH PUBLICATIONS</em></strong></p>
+
+<p><strong><em>PUBLISHED (Early cites)</em></strong></p>
+
+<p><strong>2020</strong></p>
+
+<ol>
+	<li style="text-align: justify;">Yadav, S. &amp; Lenka, U. (2020). Diversity Management: A systematic review. <em>Equality, diversity and inclusion: An International Journal. </em><strong>EMERALD</strong> (<strong>Scopus, ABDC- B;</strong> <strong>SSCI Impact Factor-1.28</strong>, Q1). http://doi/10.1108/EDI-07-2019-0197/full/pdf</li>
+	<li style="text-align: justify;">Yadav, S. &amp; Lenka, U. (2020). Workforce diversity: from a literature review to future research agenda. <em>Journal of Indian Business Research. </em>EMERALD(<strong>Scopus, ABDC- C</strong>). <a href="http://doi/10.1108/JIBR-08-2019-0243/full/pdf">http://doi/10.1108/JIBR-08-2019-0243/full/pdf</a></li>
+	<li style="text-align: justify;"><strong>Lenka, U.</strong> and Gupta, M. (2019, in press). An empirical investigation of innovation process in Indian pharmaceutical companies. <em>European Journal of Innovation Management</em>. <a href="https://doi.org/10.1108/EJIM-03-2019-0069">https://doi.org/10.1108/EJIM-03-2019-0069</a>. <strong>EMERALD </strong>(Scopus, <strong>ABDC-&#39;C&#39;</strong>, <strong>SSCI Impact Factor- 1.793</strong>, Q2).</li>
+	<li style="text-align: justify;">Tiwari, B. &amp; <strong>Lenka, U</strong>. (2018, in press). Employee engagement: A study of survivors in Indian IT/ITES sector. <em>IIMB Management Review</em>. <a href="https://doi.org/10.1016/j.iimb.2019.10.003">https://doi.org/10.1016/j.iimb.2019.10.003</a>. <strong>ELSEVIER </strong>(Scopus<strong>, ABDC-&lsquo;B&rsquo;</strong>, Q2).</li>
+	<li style="text-align: justify;">Naim, M. F. &amp; <strong>Lenka, U.</strong> (2019, in press). Organizational learning and Gen Y employees&rsquo; affective commitment: The mediating role of competency development and moderating role of strategic leadership. <em>Journal of Management &amp; Organization</em>. <strong>CAMBRIDGE UNIVERISTY PRESS </strong><a href="https://doi.org/10.1017/jmo.2018.19">https://doi.org/10.1017/jmo.2018.19</a>. (Scopus, <strong>ABDC-&lsquo;B&rsquo;, SSCI Impact Factor- 1.021</strong>, Q2).</li>
+</ol>
+
+<p style="text-align: justify;"><strong><em>PUBLISHED</em></strong></p>
+
+<p style="text-align: justify;"><strong>2019</strong></p>
+
+<ol>
+	<li style="text-align: justify;" value="6">Malik, P. &amp; <strong>Lenka, U.</strong> (2019). Exploring interventions to curb workplace deviance: Lessons from Air India. <em>Tourism Review, 74</em>(3), 563-585. <strong>EMERALD </strong>(Scopus, <strong>ABDC-</strong> <strong>&#39;B&#39;</strong>, <strong>SSCI Impact Factor</strong>- <strong>1.060</strong>, Q2).</li>
+	<li style="text-align: justify;" value="7">Malik, P. &amp; <strong>Lenka, U.</strong> (2019). Exploring the impact of perceive AMO framework on constructive and destructive deviance: Mediating role of employee engagement. <em>International Journal of Manpower, 40</em>(5), 994-1011. <strong>EMERALD </strong>(Scopus, <strong>ABDC</strong>-<strong>&#39;A&#39;</strong>, <strong>SSCI Impact Factor- 0.882</strong>, Q2).</li>
+	<li style="text-align: justify;" value="8">Sharma, S. and <strong>Lenka, U.</strong> (2019). Exploring linkages between unlearning and relearning in organizations. <em>The Learning Organization</em>, <em>26</em>(5), 500-517.&nbsp;<strong>EMERALD </strong>(Scopus, <strong>ABDC-&#39;C&#39;</strong><strong>, ESCI</strong>, Q2).</li>
+	<li style="text-align: justify;" value="9">Malik, P. &amp; <strong>Lenka, U.</strong> (2019). Overcoming destructive deviance: Propositioning an integrated conceptual framework. <em>International Journal of Organizational Analysis, 27</em>(3), 1148-1167. <strong>EMERALD</strong> (Scopus, <strong>ABDC-&#39;B&#39;</strong>, <strong>ESCI</strong>, Q2).</li>
+	<li style="text-align: justify;" value="10">Baheti, S. &amp; <strong>Lenka, U. </strong>(2019). An understanding of the creativity and innovation domain during the period 1990-2018: A scientometric study. <em>International Journal of Innovation, Creativity and Change, 5</em>(1), 66-93. <strong>PRIMROSE HALL PUBLISHING </strong>(Scopus, Q3).</li>
+	<li style="text-align: justify;" value="11">Sharma, S. and <strong>Lenka, U.</strong> (2019). Value-added statement as a trigger to organizational unlearning. <em>Development and Learning in Organizations, 33</em>(6), 22-25. &nbsp;<strong>EMERALD </strong>(Scopus, <strong>ABDC-&#39;C&#39;</strong>).</li>
+	<li style="text-align: justify;" value="12">Sharma, S. and <strong>Lenka, U.</strong> (2019). How organizations learn: Models uncovering the black box. <em>Development and Learning in Organizations, 33</em>(1), 20-23. . <strong>EMERALD </strong>(Scopus, <strong>ABDC-&#39;C&#39;</strong>).&nbsp;&nbsp;</li>
+</ol>
+
+<p style="text-align: justify;"><strong>2018</strong></p>
+
+<ol>
+	<li style="text-align: justify;" value="13">Malik, P., <strong>Lenka, U.</strong> &amp; Sahoo, D. K. (2018). Proposing micro-macro HRM strategies to overcome challenges of workforce diversity and deviance in ASEAN. <em>Journal of Management Development, 37</em>(1), 1-22. &nbsp;EMERALD (Scopus, <strong>ABDC- &lsquo;C&rsquo;,</strong> <strong>ESCI</strong>, Q1).</li>
+	<li style="text-align: justify;" value="14">Naim, M. F. &amp; <strong>Lenka, U.</strong> (2018). Development and retention of Generation Y employees: A conceptual framework. <em>Employee Relations</em>, <em>40</em>(2), 433-455.. <strong>EMERALD</strong> (Scopus, <strong>ABDC- &lsquo;B&rsquo;,</strong> <strong>SSCI Impact Factor-1.9</strong>, Q2).</li>
+	<li style="text-align: justify;" value="15">Tiwari, B. &amp; <strong>Lenka, U. </strong>(2018). Engaging workforce in downsized firms: Scenario of Indian IT/ITES sector. <em>Industrial and Commercial Training</em>, <em>50</em>(1), 32&ndash;38. &nbsp;<strong>EMERALD</strong> (Scopus, <strong>ESCI</strong>, Q3).</li>
+	<li style="text-align: justify;" value="16">Malik, P. &amp; <strong>Lenka, U.</strong> (2018). Integrating antecedents of workplace deviance: Utilizing AHP approach. <em>Journal of Indian Business Research, 10</em>(1), 101&ndash;122. <strong>EMERALD</strong> (Scopus, <strong>ABDC- &lsquo;C&rsquo;</strong>, <strong>ESCI</strong>, Q3).</li>
+	<li style="text-align: justify;" value="17">Agarwal, S. &amp; <strong>Lenka, U.</strong> (2018). Why research needed in women entrepreneurship in India: A viewpoint.&nbsp; <em>International Journal of Social Economics</em>, <em>45</em>(7), 1042-1057. &nbsp;<strong>EMERALD</strong> (Scopus, <strong>ABDC-&lsquo;B&rsquo;, ESCI</strong>, Q3).</li>
+	<li style="text-align: justify;" value="18">Chawla S. &amp; <strong>Lenka U.</strong> (2018). Leadership in VUCA Environment. In: Dhir, S. &amp; Sushil (Eds.) <em>Flexible Strategies in VUCA Markets</em> (pp. 213-224). Singapore: Springer. <strong>[Book Chapter]</strong></li>
+</ol>
+
+<p style="margin-left: 18pt; text-align: justify;"><strong>2017</strong></p>
+
+<ol>
+	<li style="text-align: justify;" value="19">Naim, M. F. &amp; <strong>Lenka, U.</strong> (2017). Linking knowledge sharing, competency development, and affective commitment: Evidence from Indian Gen Y employees. <em>Journal of Knowledge Management,</em> <em>21</em>(4), 885-906. <strong>&nbsp;EMERALD</strong> (Scopus<strong>, ABDC-&lsquo;A&rsquo;, SSCI Impact Factor-4.604</strong>, Q1).</li>
+	<li style="text-align: justify;" value="20"><strong>Lenka, U</strong>. &amp; Agarwal, S. (2017). Role of women entrepreneurs and NGOs in promoting entrepreneurship: Case studies from Uttarakhand, India. <em>&nbsp;Journal of Asia Business Studies, 11</em>(4), 451&ndash;465. <strong>&nbsp;EMERALD </strong>(Scopus, <strong>ABDC-&lsquo;C&rsquo;, ESCI</strong>, Q1).</li>
+	<li style="text-align: justify;" value="21">Agarwal, S., &amp; <strong>Lenka, U</strong>. (2017). Does growth of ventures depend on competencies? Selected cases from India. <em>International Journal of Entrepreneurship and Small Business</em><strong><em>, </em></strong><em>31</em>(2), 227-243. &nbsp;<strong>INDERSCIENCE</strong> (Scopus, Q2).</li>
+	<li style="text-align: justify;" value="22">Naim, M. F. &amp; <strong>Lenka, U. </strong>(2017). How does mentoring contribute to Gen Y employees&rsquo; intention to stay? An Indian perspective. <em>Europe&rsquo;s Journal of Psychology</em>, <em>13</em>(2), 314&ndash;335. &nbsp;<strong>APA PsycINFO </strong>(Scopus, <strong>ESCI</strong>, Q2).</li>
+	<li style="text-align: justify;" value="23">Naim, M. F. &amp; <strong>Lenka, U</strong>. (2017). Mentoring, social media, and Gen Y employees&#39; intention to stay: Towards a conceptual model. <em>International Journal of Business and Systems Research</em>, <em>11</em>(1/2), 28&ndash;41. <strong>INDERSCIENCE </strong>(Scopus, Q3).</li>
+	<li style="text-align: justify;" value="24">Naim, M. F. &amp; <strong>Lenka, U.</strong> (2017). Investigating the Impact of Social Media on Gen Y Employees&#39; Engagement: An Indian Perspective. <em>International Journal of Human Capital and Information</em> <em>Technology Professionals</em>, <em>8</em>(3), 29-48. &nbsp;<strong>IGI </strong>(Scopus, <strong>ESCI</strong>, Q3).</li>
+	<li style="text-align: justify;" value="25">Naim, M. F. &amp; <strong>Lenka, U.</strong> (2017). Talent management: A burgeoning strategic focus in Indian IT industry. <em>Industrial and Commercial Training, 49</em>(3), 183-188. <strong>EMERALD</strong> (Scopus, <strong>ESCI, </strong>Q3).</li>
+	<li style="text-align: justify;" value="26">Naim, M. F. &amp; <strong>Lenka, U.</strong> (2017). The impact of social media and collaboration on Gen Y employees&#39; engagement, <em>International Journal of Development Issues</em>, <em>16</em>(3), 289-299. &nbsp;<strong>EMERALD</strong> (Scopus, <strong>ABDC-&lsquo;C&rsquo;</strong>).</li>
+</ol>
+
+<p style="margin-left: 18pt; text-align: justify;"><strong>2016</strong></p>
+
+<ol>
+	<li style="text-align: justify;" value="27"><strong>Lenka, U</strong>., &amp;Tiwari, B. (2016). Achieving Triple &lsquo;P&rsquo; bottom line through resonant leadership: An Indian perspective.&nbsp; <em>International Journal of Productivity and Performance Management, 69</em>(5), 694&ndash;703. <strong>EMERALD </strong>(Scopus, <strong>ESCI, ABDC-&lsquo;B&rsquo;</strong>, Q1).</li>
+	<li style="text-align: justify;" value="28"><strong>Lenka, U</strong>., Gupta, M. &amp; Sahoo, D. K. (2016).&nbsp; Research and development teams as a perennial source of competitive advantage for organizational creativity and innovation.<em> Global Business Review, 17</em>(3), 700-711. <strong>SAGE</strong> (Scopus, <strong>ESCI, ABDC-&lsquo;C&rsquo;</strong>, Q2).</li>
+	<li style="text-align: justify;" value="29">Sahoo, D. K., &amp; <strong>Lenka, U</strong>. (2016). Breaking the glass ceiling: Opportunity for the organization. <em>Industrial and Commercial Training, 48</em>(6), 311-319.&nbsp;<strong>EMERALD </strong>(Scopus, <strong>ESCI,</strong> Q3).</li>
+	<li style="text-align: justify;" value="30">Naim, M. F. &amp; <strong>Lenka, U</strong>. (2016). Knowledge sharing as an intervention for Gen Y employees&rsquo; intention to stay.<em> Industrial and Commercial Training, 48</em>(3), 142-148. <strong>EMERALD </strong>(Scopus, <strong>ESCI,</strong> Q3).</li>
+	<li style="text-align: justify;" value="31">&nbsp;Agarwal, S. &amp; <strong>&nbsp;Lenka, U</strong>. (2016). An exploratory study on the development of women entrepreneurs: Indian cases.<em> Journal of Research in Marketing and Entrepreneurship, 18</em> (2), 232-247. <strong>EMERALD</strong> (Scopus, <strong>ABDC-&lsquo;B&rsquo;</strong>, Q3).</li>
+	<li style="text-align: justify;" value="32">Chawla, S. &amp; <strong>Lenka, U</strong>. (2016). Organizational level antecedents of learning organizations for Indian higher educational institutes: An exploratory study<em>. International Journal of Management in Education, 10</em>(1<em>)</em>, 24-44<strong>. </strong><strong>INDERSCIENC</strong><strong>E </strong>(Scopus, Q3).</li>
+</ol>
+
+<p style="margin-left: 18pt; text-align: justify;"><strong>2015</strong></p>
+
+<ol>
+	<li style="text-align: justify;" value="33">Chawla, S. &amp; <strong>Lenka, U</strong>. (2015). A study on learning organizations in Indian higher educational institutions. <em>Journal of Workplace Learning, 27</em>(2), 142-161.&nbsp;<strong>EMERALD </strong>(Scopus, <strong>ESCI, ABDC-&lsquo;C&rsquo;</strong>, Q2).</li>
+	<li style="text-align: justify;" value="34"><strong>Lenka, U</strong>. &amp; Vandana (2015).&nbsp; A review on impact of socialization agents in breeding consumerism among children. <em>Global Business Review, 16</em>(5), 867-878. <strong>SAGE</strong> (Scopus, <strong>ESCI, ABDC-&lsquo;C&rsquo;</strong>, Q2).</li>
+	<li style="text-align: justify;" value="35">Tiwari, B. &amp; <strong>Lenka, U</strong>. (2015). Building and branding talent hub: An outlook.<em> Industrial and Commercial Training, 47</em>(4), 208-213. <strong>EMERALD </strong>(Scopus, <strong>ESCI,</strong> Q3).</li>
+	<li style="text-align: justify;" value="36"><strong>Lenka, U</strong>. &amp; Chawla, S. (2015). Higher educational institutes as learning organizations for building a strong employer brand. <em>Industrial and Commercial Training, 47</em>(5), 265-276. &nbsp;<strong>EMERALD </strong>(Scopus, <strong>ESCI,</strong> Q3).</li>
+	<li style="text-align: justify;" value="37">Agarwal, S. &amp; <strong>Lenka, U</strong>. (2015). Study on work life balance of women entrepreneurs - Review and research agenda. <em>Industrial and Commercial Training, 47</em>(7), 356-362.&nbsp;<strong>EMERALD</strong> (Scopus, <strong>ESCI,</strong> Q3).</li>
+	<li style="text-align: justify;" value="38"><strong>Lenka, U</strong>. &amp; Vandana. (2015). Direct and indirect influence of interpersonal and environmental agents on materialism in children. <em>Psychological Studies</em>, <em>61</em>, 55-66.&nbsp;<strong>SPRINGER </strong>(Scopus, Q3).</li>
+	<li style="text-align: justify;" value="39">Chawla, S. &amp; <strong>Lenka, U</strong>. (2015). Resonant leaders: An impetus to change the organizations.<em> Development and Learning in Organizations, 29</em>(6), 17-19. <strong>EMERALD </strong>(Scopus, <strong>ABDC-&lsquo;C&rsquo;</strong>).</li>
+	<li style="text-align: justify;" value="40">Tiwari, B. &amp; <strong>Lenka, U</strong>. (2016). Building psychological safety for employee engagement in post-recession. <em>Development and Learning in Organizations, 30</em>(1), 19-22. &nbsp;<strong>EMERALD </strong>(Scopus, <strong>ABDC-&lsquo;C&rsquo;</strong>).</li>
+</ol>
+
+<p style="margin-left: 18pt; text-align: justify;"><strong>2008&ndash;2014</strong></p>
+
+<ol>
+	<li style="text-align: justify;" value="41"><strong>Lenka, U</strong>., Suar, D. &amp; Mohapatra, P.K.J. (2010). Quality management practices of Indian commercial banks influencing customer satisfaction. <em>Total Quality Management and Business Excellence, 21</em>(12), 1315-1341. &nbsp;<strong>TAYLOR &amp; FRANCIS </strong>(Scopus, <strong>SSCI Impact Factor-2.18</strong>, Q1).</li>
+	<li style="text-align: justify;" value="42"><strong>Lenka, U</strong>., Suar, D. &amp; Mohapatra, P.K.J. (2010). Soft and hard aspects of quality management practices influencing service quality and customer satisfaction in manufacturing-oriented services. <em>Global Business Review, 11</em>(1), 79&ndash;101. &nbsp;<strong>SAGE</strong> (Scopus, <strong>ESCI, ABDC-&lsquo;C&rsquo;</strong>, Q2).</li>
+	<li style="text-align: justify;" value="43"><strong>Lenka, U</strong>., Suar, D. &amp; Mohapatra, P.K.J. (2009). Service quality, customer satisfaction, and customer loyalty in Indian commercial banks. <em>Journal of Entrepreneurship, 18</em>(1), 47-64. <strong>SAGE </strong>(Scopus, <strong>ABDC-&lsquo;C&rsquo;</strong>, Q2).</li>
+	<li style="text-align: justify;" value="44"><strong>Lenka, U</strong>., &amp; Suar, D. (2008). A holistic model of total quality management in services. <em>ICFAI Journal of Management Research, 7</em>(3), 56&ndash; 72(EBSCO)</li>
+	<li style="text-align: justify;" value="45">Vandana &amp;<strong> Lenka, U</strong>. (2014). A review on the role of media in increasing materialism among<em> children.&nbsp; Procedia - Social and Behavioral Sciences, 133</em>(1), 456&ndash;464.<strong>ELSEVIER (Scopus).</strong></li>
+	<li style="text-align: justify;" value="46">Chawla, S. &amp; <strong>Lenka, U</strong>. (2013). Role of transformational leaders in developing higher educational institutions as learning organizations- An Indian perspective. <em>Global Journal of Finance and Management, 5</em>(10), 30-33.</li>
+</ol>
+
+<p style="text-align: justify;"><strong><em>ACCEPTED</em></strong></p>
+
+<p style="text-align: justify;"><strong>2020</strong></p>
+
+<ol>
+	<li style="text-align: justify;">Malik, P. &amp; <strong>Lenka, U.</strong> (2019, in press). Testing the mediating role of POS between perceived AMO framework and deviant behaviours in the Indian IT sector. <em>European Journal of International Management.</em> <a href="https://doi.org/10.1504/EJIM.2020.10022894">https://doi.org/10.1504/EJIM.2020.10022894</a>. <strong>INDERSCIENCE</strong> (Scopus, <strong>SSCI Impact Factor-1.349</strong>, Q2).</li>
+	<li style="text-align: justify;">Malik, P. &amp; <strong>Lenka, U.</strong> (2019, in press). Identifying HRM practices for disabling destructive deviance among public sector employees utilizing content analysis. <em>International Journal of Organizational Analysis. </em><strong>EMERALD</strong> (Scopus, <strong>ABDC-&lsquo;B&rsquo;, ESCI</strong>, Q2).</li>
+	<li style="text-align: justify;">Baheti, S. &amp; <strong>Lenka, U.</strong> (2019, in press). Scientometric evaluation of International Journal of Business Excellence (2008&ndash;2019). <em>International Journal of Business Excellence</em>. <strong>INDERSCIENCE</strong> (Scopus, Q3).</li>
+	<li style="text-align: justify;">Baheti, S. &amp; <strong>Lenka, U.</strong> (2019, in press). Sustainable innovation for sustainable business performance: A systematic review of recent literature (2008&ndash;2018). <em>International Journal of Business Excellence. </em><strong>INDERSCIENCE</strong> (Scopus, Q3).</li>
+	<li style="text-align: justify;">Patra, B. C. &amp; <strong>Lenka, U.</strong> (2019, in press). Analysis of barriers to entrepreneurial intentions of women: An analytic hierarchy process approach. <em>International Journal of Business Excellence. </em><strong>INDERSCIENCE</strong> (Scopus, Q3).</li>
+	<li style="text-align: justify;">Tiwari, B., &amp; <strong>Lenka, U</strong>. (2020). Resonant leadership: Scale development and validation of four-factor model in Indian study. Springer Book Series on Flexibility [Book Chapter]</li>
+</ol>
+
+																																																																				</div>
+																																																																				
+																																																																			</div>
+																																																																			
+																																																																		</div>
+																																																																		
+																																																																	</body>
+																																																																	
+																																																																	<script src="https://cmsredesign.channeli.in/library/javascript/components/nested-vertical-list.js?rndstr='T7Uuzcwzo7'"> </script>
+																																																																	<script src="https://cmsredesign.channeli.in/library/javascript/components/table.js?rndstr='T7Uuzcwzo7'"> </script>
+																																																																	<script src="https://cmsredesign.channeli.in/library/javascript/components/publication-list.js?rndstr='T7Uuzcwzo7'"> </script>
+																																																																	<script src="https://cmsredesign.channeli.in/library/javascript/components/breadcrumb.js?rndstr='T7Uuzcwzo7'"> </script>
+																																																																	<script src="https://cmsredesign.channeli.in/library/javascript/components/menu.js?rndstr='T7Uuzcwzo7'"> </script>
+																																																																	<script src="https://cmsredesign.channeli.in/library/javascript/components/header.js?rndstr='T7Uuzcwzo7'"> </script>
+																																																																	<script src="https://cmsredesign.channeli.in/library/javascript/components/color_change.js?rndstr='T7Uuzcwzo7'"> </script>
+																																																																	<script src="https://cmsredesign.channeli.in/library/javascript/components/social-icon.js?rndstr='T7Uuzcwzo7'"> </script>
+																																																																	<script src="https://cmsredesign.channeli.in/library/javascript/components/icon-library.js?rndstr='T7Uuzcwzo7'"> </script>
+																																																																</html>
